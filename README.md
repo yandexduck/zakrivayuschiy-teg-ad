@@ -1,1 +1,1 @@
-https://github.com/yandexduck/zakrivayuschiy-teg-ad#
+https://github.com/yandexduck/zakrivayuschiy-teg-ad
